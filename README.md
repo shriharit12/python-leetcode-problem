@@ -48,4 +48,12 @@ python leetcode problem
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/shriharit12/python-leetcode-problem/tree/master/0023-merge-k-sorted-lists) |
+## Array
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/shriharit12/python-leetcode-problem/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/shriharit12/python-leetcode-problem/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
